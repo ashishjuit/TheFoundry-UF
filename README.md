@@ -1,2 +1,2 @@
 # TheFoundry-UF
-Accelerating innovation through Agentic Effort
+Accelerating Innovation through Agentic Effort
